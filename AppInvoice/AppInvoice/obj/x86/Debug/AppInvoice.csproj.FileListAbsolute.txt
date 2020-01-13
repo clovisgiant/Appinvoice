@@ -1,0 +1,9 @@
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\bin\Debug\AppInvoice.exe.config
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\bin\Debug\AppInvoice.exe
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\bin\Debug\AppInvoice.pdb
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\obj\x86\Debug\AppInvoice.exe
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\obj\x86\Debug\AppInvoice.pdb
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\bin\Debug\itextsharp.dll
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\obj\x86\Debug\AppInvoice.MainForm.resources
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\obj\x86\Debug\AppInvoice.csprojResolveAssemblyReference.cache
+C:\Users\clovis\Documents\SharpDevelop Projects\AppInvoice\AppInvoice\obj\x86\Debug\AppInvoice.csproj.GenerateResource.Cache
